@@ -20,6 +20,7 @@ Instead of running the bundled 12 V fans at full speed, this controller allows y
 ## More info
 
 - [Controlling computer fans with a microcontroller](https://mike42.me/blog/2023-09-controlling-computer-fans-with-a-microcontroller) - which shows the use of a TL-866II+ to program the ATtiny85.
+- [Building a 1U quiet NAS](https://mike42.me/blog/2023-10-building-a-1u-quiet-nas) - information about the computer build which this project was created for.
 
 ## Licensing 
 
